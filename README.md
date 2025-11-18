@@ -1,6 +1,6 @@
 # M-Team 精灵：qBittorrent 与 Telegram 自动化套件 🚀
 
-[![Stars](https://img.shields.io/github/stars/astralwaveio/MTeam-Genie?style=social)](https://github.com/astralwaveio/MTeam-Genie/stargazers) [![Forks](https://img.shields.io/github/forks/astralwaveio/MTeam-Genie?style=social)](https://github.com/astralwaveio/MTeam-Genie/network/members) [![Issues](https://img.shields.io/github/issues/astralwaveio/MTeam-Genie)](https://github.com/astralwaveio/MTeam-Genie/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
+[![Stars](https://img.shields.io/github/stars/astralwaveorg/MTeam-Genie?style=social)](https://github.com/astralwaveorg/MTeam-Genie/stargazers) [![Forks](https://img.shields.io/github/forks/astralwaveorg/MTeam-Genie?style=social)](https://github.com/astralwaveorg/MTeam-Genie/network/members) [![Issues](https://img.shields.io/github/issues/astralwaveorg/MTeam-Genie)](https://github.com/astralwaveorg/MTeam-Genie/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 👋 欢迎来到 **M-Team 精灵**项目！如果您是一位 Private Tracker (PT) 爱好者，尤其是 **M-Team** 用户，并且希望通过自动化脚本提升您的站点使用体验、高效管理 qBittorrent 下载任务，并通过 Telegram 机器人实时掌控一切，那么这套精心打造的 Python 脚本集合正是为您准备的！
 
@@ -95,10 +95,10 @@ M-Team 精灵包含多个模块，各司其职，共同为您打造高效的 PT 
 1.  **克隆项目仓库**:
     如果您是通过 `git` 管理项目，请克隆本仓库到您的本地计算机或服务器：
     ```bash
-    git clone [https://github.com/astralwaveio/MTeam-Genie.git](https://github.com/astralwaveio/MTeam-Genie.git)
+    git clone [https://github.com/astralwaveorg/MTeam-Genie.git](https://github.com/astralwaveorg/MTeam-Genie.git)
     cd MTeam-Genie
     ```
-    请务必将 `astralwaveio/MTeam-Genie` 替换为实际的 GitHub 用户名和仓库名称。如果您是直接下载的 ZIP 包，请解压。
+    请务必将 `astralwaveorg/MTeam-Genie` 替换为实际的 GitHub 用户名和仓库名称。如果您是直接下载的 ZIP 包，请解压。
 
 2.  **安装依赖库**:
     项目依赖一些第三方 Python 库，这些库在 `requirements.txt` 文件中列出。请在项目根目录下打开终端或命令行，运行以下命令安装：
@@ -199,7 +199,7 @@ M-Team 精灵包含多个模块，各司其职，共同为您打造高效的 PT 
 
 我们热烈欢迎任何形式的贡献，无论是：
 
-* **发现并报告 Bug**: 请通过 [GitHub Issues](https://github.com/astralwaveio/MTeam-Genie/issues) 提交详细的 Bug 描述。
+* **发现并报告 Bug**: 请通过 [GitHub Issues](https://github.com/astralwaveorg/MTeam-Genie/issues) 提交详细的 Bug 描述。
 * **提出功能建议**: 有好的想法能让项目更棒？请同样通过 Issues 告诉我们！
 * **贡献代码**:
     1.  Fork 本项目到您的 GitHub 账户。
@@ -217,6 +217,6 @@ M-Team 精灵包含多个模块，各司其职，共同为您打造高效的 PT 
 
 🎉 感谢您对 **M-Team 精灵** 的关注与支持！希望这些工具能为您的 PT 生活带来便利与乐趣。
 如果您觉得这个项目对您有帮助，请不吝给我们点亮一颗 ⭐ **Star** ⭐，这是对我们最大的鼓励！
-遇到任何问题或有任何建议，都欢迎通过项目的 [GitHub Issues](https://github.com/astralwaveio/MTeam-Genie/issues) 与我们交流。
+遇到任何问题或有任何建议，都欢迎通过项目的 [GitHub Issues](https://github.com/astralwaveorg/MTeam-Genie/issues) 与我们交流。
 
 Happy torrenting! 🥳
